@@ -18,7 +18,7 @@ A simulação é realizada em Scilab/ScicosLab, com geração de gráficos que m
 
 ## Estrutura do repositório
 
-
+```text
 SBAI2025---Traffic-Lights/
 │
 ├── Apresentacao_SBAI2025.pdf     # Slides da apresentação no SBAI 2025
@@ -28,7 +28,7 @@ SBAI2025---Traffic-Lights/
 ├── simul_sbai.svg                # Diagrama SVG da rede de semáforos
 ├── jquery-3.7.1.slim.min.js      # Biblioteca jQuery para a página HTML
 └── README.md                     # Este arquivo
-
+```
 
 ---
 
