@@ -101,4 +101,4 @@ Se utilizar o código, modelos ou resultados em publicações, por favor cite o 
 ---
 
 **Última atualização:** fevereiro de 2026
-```
+
