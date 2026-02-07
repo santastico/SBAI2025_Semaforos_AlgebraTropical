@@ -23,6 +23,7 @@ SBAI2025---Traffic-Lights/
 │
 ├── Apresentacao_SBAI2025.pdf     # Slides da apresentação no SBAI 2025
 ├── GIF_animacao_GETs.gif         # Animação dos Grafos de Eventos Temporizados
+├── Paper_SBAI2025.pdg            # Artigo
 ├── SBAI2025.sce                  # Script principal em Scilab/ScicosLab
 ├── Simulacao_HTML_SBAI.html      # Página HTML opcional de visualização
 ├── simul_sbai.svg                # Diagrama SVG da rede de semáforos
@@ -39,6 +40,9 @@ SBAI2025---Traffic-Lights/
 
 - **GIF_animacao_GETs.gif**  
   Pequena animação ilustrando o funcionamento dos Grafos de Eventos Temporizados usados para representar os semáforos.
+  
+- **Paper_SBAI2025.pdf**
+  Artigo apresentado no SBAI2025, contendo todas as informações necessárias sobre a nossa abordagem para o controle de redes semafóricas utilizando Álgebra Tropical.
 
 - **SBAI2025.sce**  
   Script principal em Scilab/ScicosLab.  
