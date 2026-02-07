@@ -102,8 +102,8 @@ Se utilizar o código, modelos ou resultados em publicações, por favor cite o 
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/santastico/SBAI2025_Semaforos_AlgebraTropical](https://github.com/santastico/SBAI2025_Semaforos_AlgebraTropical)
-- **CDC 2025 Conference:** [https://www.sba.org.br/web/eventos/view?id=96](https://www.sba.org.br/web/eventos/view?id=96)
+- **Repositório Github:** [https://github.com/santastico/SBAI2025_Semaforos_AlgebraTropical](https://github.com/santastico/SBAI2025_Semaforos_AlgebraTropical)
+- **SBAI 2025:** [https://www.sba.org.br/web/eventos/view?id=96](https://www.sba.org.br/web/eventos/view?id=96)
 
 ---
 
